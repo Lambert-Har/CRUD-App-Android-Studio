@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUD1</string>
+    <string name="lbl_user">Users</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_view">View</string>
+</resources>

@@ -4,6 +4,6 @@ Download it Via https://developer.android.com/studio?gclid=CjwKCAjw6eWnBhAKEiwAD
 
 2. After installing Android Studia, install Android Emulator, see release notse here https://developer.android.com/studio/releases/emulator
 
-   These videos may help you
+   These videos may help you \n
    A. Android Studio: https://youtu.be/DM783YA0vbc
    B. Android Emulator: https://youtu.be/DilpTYS-MHQ
